@@ -14,7 +14,7 @@ Quiz app is open-source Quiz app for Android & ios. It is built with Dart on top
 
 <p><img src="snapshot/git.gif" /></p>
 <p align="center"><b>Quiz App</b></p>
-
+<p><img src="snapshot/here.png" /></p>
 
 ## About🤠
 
@@ -22,7 +22,6 @@ Quiz app using GetX With PageCotnroller & Timer
 
 | Welcom Screen
 |------
-|<img src="snapshot/welcom.jpg" width="400">
 
 | Question One Page | Question Two Dialog|
 |------|-------|
