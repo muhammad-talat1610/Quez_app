@@ -7,7 +7,7 @@ Quiz app is open-source Quiz app for Android & ios. It is built with Dart on top
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-<p><img src="snapshot/here.png" /></p>
+
 <p align="center"><b>Quiz App</b></p>
 
 
